@@ -1,0 +1,14 @@
+[
+{
+    "name": "Mujahid",
+    "score": 17,
+    "isCorrect": true,
+    "King": null,
+    "shopItems":["curd","pen","icecream","sunflower oil"],
+    "myObj":{
+        "Name":"nested",
+        "Marks": 19.67,
+        "shopItems2":["chocolate","hair oil","shampoo",{"a":"sameer"}]
+    }
+}
+]
